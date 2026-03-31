@@ -61,7 +61,3 @@ systems • performance • automation • machine learning
 <p align="center">
 discord: <b>pato_lizo</b>
 </p>
-
-<p align="center">
-  🌐 <a href="https://gui-bertoso.github.io">portfolio</a>
-</p>
