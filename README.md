@@ -2,7 +2,7 @@
   <img src="assets/gifs/waddling-duck.gif" width="160"/>
 </p>
 
-<h1 align="center">gui bertoso</h1>
+<h1 align="center">gui.bertoso</h1>
 
 <p align="center">
   real-time procedural world streaming
