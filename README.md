@@ -54,7 +54,9 @@ procedural generation • chunk streaming • lod • multimesh • optimization
 
 ---
 
-<h2 align="center">📫 contact</h2>
+<p align="center">
+  <b>──────── 📫 CONTACT ────────</b>
+</p>
 
 <p align="center">
 discord: <b>pato_lizo</b>
