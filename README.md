@@ -17,8 +17,7 @@
 </p>
 
 ---
-
-## 🚀 projects
+<h2 align="center">🚀 projects</h2>
 
 <p align="center">
 🌍 <b>procedural-survival-game (main)</b><br>
@@ -42,7 +41,7 @@
 
 ---
 
-## 🛠️ tech
+<h2 align="center">🛠️ tech</h2>
 
 <p align="center">
 godot • c# • python • c++<br>
@@ -51,7 +50,7 @@ procedural generation • chunk streaming • lod • multimesh • optimization
 
 ---
 
-## 📫 contact
+<h2 align="center">📫 contact</h2>
 
 <p align="center">
 discord: <b>pato_lizo</b>
