@@ -22,8 +22,7 @@
 </p>
 
 <p align="center">
-🔥 <b>procedural-survival-game (main)</b>
-🌍 <b>procedural-survival-game</b> <sub><i>(main project)</i></sub>
+🌍 <b>procedural-survival-game (main)</b><br>
 <sub>chunk streaming • procedural terrain • multimesh optimization</sub><br><br>
 </p>
 
