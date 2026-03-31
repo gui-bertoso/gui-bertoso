@@ -1,69 +1,56 @@
-# 🦆 gui bertoso
+<p align="center">
+  <img src="assets/gifs/waddling-duck.gif" width="120"/>
+</p>
 
-17y dev focused on game development, procedural systems and performance.
+<h1 align="center">🦆 gui bertoso</h1>
 
-i build systems, not just games.
+<p align="center">
+  procedural systems • performance • scalable worlds
+</p>
+
+<p align="center">
+  i build systems, not just games
+</p>
 
 ---
 
-## 🚀 main projects
+## 🚀 projects
 
-### 🌍 procedural-survival-game
-procedural survival game built with godot  
-- chunk streaming  
-- procedural terrain  
-- optimized vegetation (multimesh)  
-- scalable architecture  
+<p align="center">
+🌍 <b>procedural-survival-game</b><br>
+chunk streaming • procedural terrain • multimesh optimization<br><br>
 
-### 🧠 project-horizons
-experimental procedural game focused on systems and world generation  
+🧠 <b>project-horizons</b><br>
+systems-driven procedural experiments<br><br>
 
-### ⚙️ project-horizons-csharp
-same idea, but using c# to explore performance and architecture  
+⚙️ <b>project-horizons-csharp</b><br>
+same systems, focused on performance<br><br>
 
-### 🔮 call-of-mages
-game prototype focused on magic systems and combat  
+🔮 <b>call-of-mages</b><br>
+combat & magic prototype
+</p>
 
 ---
 
 ## 🛠️ tech
 
-- godot (gdscript / c#)
-- python
-- c++
-- procedural generation
-- optimization (lod, chunks, performance)
-- systems architecture
+<p align="center">
+godot • c# • python • c++<br>
+procedural generation • lod • chunks • optimization
+</p>
 
 ---
 
-## 🎯 focus
+## 🦆 status
 
-- procedural worlds  
-- scalable systems  
-- performance optimization  
-- game architecture  
-
----
-
-## 📈 current mission
-
-building a fully procedural, scalable survival game  
-
----
-
-## 🧠 mindset
-
-> "optimize first, regret never"
-
----
-
-## 🌎 future
-
-planning to study and work abroad (canada 🇨🇦)  
+<p align="center">
+building procedural worlds...
+</p>
 
 ---
 
 ## 📫 contact
 
-- discord: pato_lizo
+<p align="center">
+discord: <b>pato_lizo</b>
+</p>
