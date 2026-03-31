@@ -1,16 +1,69 @@
-## Hi there 👋
+# 🦆 gui bertoso
 
-<!--
-**gui-bertoso/gui-bertoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+17y dev focused on game development, procedural systems and performance.
 
-Here are some ideas to get you started:
+i build systems, not just games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 main projects
+
+### 🌍 procedural-survival-game
+procedural survival game built with godot  
+- chunk streaming  
+- procedural terrain  
+- optimized vegetation (multimesh)  
+- scalable architecture  
+
+### 🧠 project-horizons
+experimental procedural game focused on systems and world generation  
+
+### ⚙️ project-horizons-csharp
+same idea, but using c# to explore performance and architecture  
+
+### 🔮 call-of-mages
+game prototype focused on magic systems and combat  
+
+---
+
+## 🛠️ tech
+
+- godot (gdscript / c#)
+- python
+- c++
+- procedural generation
+- optimization (lod, chunks, performance)
+- systems architecture
+
+---
+
+## 🎯 focus
+
+- procedural worlds  
+- scalable systems  
+- performance optimization  
+- game architecture  
+
+---
+
+## 📈 current mission
+
+building a fully procedural, scalable survival game  
+
+---
+
+## 🧠 mindset
+
+> "optimize first, regret never"
+
+---
+
+## 🌎 future
+
+planning to study and work abroad (canada 🇨🇦)  
+
+---
+
+## 📫 contact
+
+- discord: (coloca depois)
