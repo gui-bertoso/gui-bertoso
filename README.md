@@ -22,10 +22,11 @@
 
 <p align="center">
 🌍 <b>procedural-survival-game (main)</b><br>
-chunk streaming • procedural terrain • multimesh optimization<br><br>
+<sub>chunk streaming • procedural terrain • multimesh optimization</sub><br><br>
 
 🧠 <b>project-horizons</b><br>
-systems-driven procedural experiments<br><br>
+<sub>systems-driven procedural experiments</sub><br><br>
+</p>
 
 ⚙️ <b>project-horizons-csharp</b><br>
 same systems, focused on performance<br><br>
