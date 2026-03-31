@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="[https://gui-bertoso.github.io](https://gui-bertoso.github.io/portfolio/)">gui-bertoso.github.io</a>
+  🌐 <a href="https://gui-bertoso.github.io](https://gui-bertoso.github.io/portfolio/">gui-bertoso.github.io</a>
 </p>
 
 ---
