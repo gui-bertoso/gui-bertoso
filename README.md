@@ -23,13 +23,19 @@
 <p align="center">
 🌍 <b>procedural-survival-game (main)</b><br>
 <sub>chunk streaming • procedural terrain • multimesh optimization</sub><br><br>
+</p>
 
+<p align="center">
 🧠 <b>project-horizons</b><br>
 <sub>systems-driven procedural experiments</sub><br><br>
+</p>
 
+<p align="center">
 ⚙️ <b>project-horizons-csharp</b><br>
 <sub>same systems, focused on performance</sub><br><br>
+</p>
 
+<p align="center">
 🔮 <b>call-of-mages</b><br>
 <sub>combat & magic prototype</sub>
 </p>
