@@ -43,7 +43,9 @@
 
 ---
 
-<h2 align="center">🛠️ tech</h2>
+<p align="center">
+  <b>──────── 🛠️ TECHS ────────</b>
+</p>
 
 <p align="center">
 godot • c# • python • c++<br>
