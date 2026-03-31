@@ -17,7 +17,9 @@
 </p>
 
 ---
-<h2 align="center">🚀 projects</h2>
+<p align="center">
+  <b>──────── 🚀 PROJECTS ────────</b>
+</p>
 
 <p align="center">
 🌍 <b>procedural-survival-game (main)</b><br>
