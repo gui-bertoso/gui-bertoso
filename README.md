@@ -66,4 +66,4 @@ planning to study and work abroad (canada 🇨🇦)
 
 ## 📫 contact
 
-- discord: (coloca depois)
+- discord: pato_lizo
