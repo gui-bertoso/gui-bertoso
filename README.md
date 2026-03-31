@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <b>──────── 🛠️ TECHS ────────</b>
+  <b>──────── 🛠️ STACK ────────</b>
 </p>
 
 <p align="center">
