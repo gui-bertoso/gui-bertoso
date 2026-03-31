@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-🌍 <b>procedural-survival-game (main)</b><br>
+🌍 <b>procedural-survival-game</b> <sub><i>(main project)</i></sub>
 <sub>chunk streaming • procedural terrain • multimesh optimization</sub><br><br>
 </p>
 
