@@ -5,39 +5,35 @@
 <h1 align="center">gui bertoso</h1>
 
 <p align="center">
-  🦆 real-time procedural world streaming
+  real-time procedural world streaming
 </p>
 
 <p align="center">
   procedural systems • performance • scalable worlds
 </p>
 
-<p align="center">
-  i build scalable systems, not just games
-</p>
-
 ---
 <p align="center">
-  <b>──────── 🚀 PROJECTS ────────</b>
+  <b>──────── PROJECTS ────────</b>
 </p>
 
 <p align="center">
-🌍 <b>procedural-survival-game (main)</b><br>
+<b>procedural-survival-game (main)</b><br>
 <sub>chunk streaming • procedural terrain • multimesh optimization</sub><br><br>
 </p>
 
 <p align="center">
-🧠 <b>project-horizons</b><br>
+<b>project-horizons</b><br>
 <sub>systems-driven procedural experiments</sub><br><br>
 </p>
 
 <p align="center">
-⚙️ <b>project-horizons-csharp</b><br>
+<b>project-horizons-csharp</b><br>
 <sub>same systems, focused on performance</sub><br><br>
 </p>
 
 <p align="center">
-🔮 <b>call-of-mages</b><br>
+<b>call-of-mages</b><br>
 <sub>combat & magic prototype</sub>
 </p>
 
@@ -55,7 +51,7 @@ procedural generation • chunk streaming • lod • multimesh • optimization
 ---
 
 <p align="center">
-  <b>──────── 📫 CONTACT ────────</b>
+  <b>──────── CONTACT ────────</b>
 </p>
 
 <p align="center">
@@ -65,5 +61,5 @@ discord: <b>pato_lizo</b>
 ---
 
 <p align="center">
-  🦆 building worlds, one chunk at a time
+  building worlds, one chunk at a time
 </p>
