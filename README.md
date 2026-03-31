@@ -5,11 +5,15 @@
 <h1 align="center">gui.bertoso</h1>
 
 <p align="center">
-  real-time procedural world streaming
+  real-time systems & procedural generation
 </p>
 
 <p align="center">
-  procedural systems • performance • scalable worlds
+  systems • performance • scalability
+</p>
+
+<p align="center">
+  🌐 <a href="https://gui-bertoso.github.io">gui-bertoso.github.io</a>
 </p>
 
 ---
@@ -19,22 +23,22 @@
 
 <p align="center">
 <b>procedural-survival-game (main)</b><br>
-<sub>chunk streaming • procedural terrain • multimesh optimization</sub><br><br>
+<sub>real-time world systems • procedural generation • performance optimization</sub><br><br>
 </p>
 
 <p align="center">
 <b>project-horizons</b><br>
-<sub>systems-driven procedural experiments</sub><br><br>
+<sub>systems-driven experiments and reusable architectures</sub><br><br>
 </p>
 
 <p align="center">
 <b>project-horizons-csharp</b><br>
-<sub>same systems, focused on performance</sub><br><br>
+<sub>performance-focused systems and code architecture</sub><br><br>
 </p>
 
 <p align="center">
 <b>call-of-mages</b><br>
-<sub>combat & magic prototype</sub>
+<sub>gameplay systems and rapid prototyping</sub>
 </p>
 
 ---
@@ -45,7 +49,7 @@
 
 <p align="center">
 godot • c# • python • c++<br>
-games • apps • optimization • machine-learning • automation
+systems • performance • automation • machine learning
 </p>
 
 ---
@@ -56,4 +60,8 @@ games • apps • optimization • machine-learning • automation
 
 <p align="center">
 discord: <b>pato_lizo</b>
+</p>
+
+<p align="center">
+  🌐 <a href="https://gui-bertoso.github.io">portfolio</a>
 </p>
