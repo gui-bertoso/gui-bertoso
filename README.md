@@ -45,7 +45,7 @@
 
 <p align="center">
 godot • c# • python • c++<br>
-procedural generation • chunk streaming • lod • multimesh • optimization
+games • apps • optimization • machine-learning • automation
 </p>
 
 ---
