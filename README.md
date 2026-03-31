@@ -12,6 +12,8 @@
   procedural systems • performance • scalable worlds
 </p>
 
+---
+
 <p align="center">
   i build scalable systems, not just games
 </p>
