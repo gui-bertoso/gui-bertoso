@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <b>──────── 🛠️ STACK ────────</b>
+  <b>──────── STACK ────────</b>
 </p>
 
 <p align="center">
