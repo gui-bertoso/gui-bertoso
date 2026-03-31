@@ -3,9 +3,11 @@
 </p>
 
 <h1 align="center">gui bertoso</h1>
+
 <p align="center">
-  🦆 streaming chunks in real time...
+  🦆 real-time procedural world streaming
 </p>
+
 <p align="center">
   procedural systems • performance • scalable worlds
 </p>
@@ -19,7 +21,7 @@
 ## 🚀 projects
 
 <p align="center">
-🌍 <b>procedural-survival-game</b><br>
+🌍 <b>procedural-survival-game (main)</b><br>
 chunk streaming • procedural terrain • multimesh optimization<br><br>
 
 🧠 <b>project-horizons</b><br>
@@ -38,7 +40,7 @@ combat & magic prototype
 
 <p align="center">
 godot • c# • python • c++<br>
-procedural generation • lod • chunks • optimization
+procedural generation • chunk streaming • lod • multimesh • optimization
 </p>
 
 ---
@@ -47,4 +49,10 @@ procedural generation • lod • chunks • optimization
 
 <p align="center">
 discord: <b>pato_lizo</b>
+</p>
+
+---
+
+<p align="center">
+  🦆 building worlds, one chunk at a time
 </p>
