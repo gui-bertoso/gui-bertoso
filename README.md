@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">gui bertoso</h1>
-
+<p align="center">
+  🦆 streaming chunks in real time...
+</p>
 <p align="center">
   procedural systems • performance • scalable worlds
 </p>
