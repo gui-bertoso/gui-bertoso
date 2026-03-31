@@ -15,6 +15,9 @@
 <p align="center">
   i build scalable systems, not just games
 </p>
+<p align="center">
+ focused on performance, scalability and real-time generation
+</p>
 
 ---
 <p align="center">
