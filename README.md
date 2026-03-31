@@ -41,15 +41,6 @@ procedural generation • lod • chunks • optimization
 
 ---
 
-## status
-
-<p align="center">
-  <img src="assets/gifs/waddling-duck.gif" width="80"/><br>
-  building procedural worlds...
-</p>
-
----
-
 ## 📫 contact
 
 <p align="center">
