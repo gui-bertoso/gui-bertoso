@@ -2,7 +2,7 @@
   <img src="assets/gifs/waddling-duck.gif" width="120"/>
 </p>
 
-<h1 align="center">🦆 gui bertoso</h1>
+<h1 align="center">gui bertoso</h1>
 
 <p align="center">
   procedural systems • performance • scalable worlds
@@ -41,10 +41,11 @@ procedural generation • lod • chunks • optimization
 
 ---
 
-## 🦆 status
+## status
 
 <p align="center">
-building procedural worlds...
+  <img src="assets/gifs/waddling-duck.gif" width="80"/><br>
+  building procedural worlds...
 </p>
 
 ---
