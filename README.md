@@ -26,13 +26,12 @@
 
 🧠 <b>project-horizons</b><br>
 <sub>systems-driven procedural experiments</sub><br><br>
-</p>
 
 ⚙️ <b>project-horizons-csharp</b><br>
-same systems, focused on performance<br><br>
+<sub>same systems, focused on performance</sub><br><br>
 
 🔮 <b>call-of-mages</b><br>
-combat & magic prototype
+<sub>combat & magic prototype</sub>
 </p>
 
 ---
