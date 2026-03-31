@@ -57,9 +57,3 @@ procedural generation • chunk streaming • lod • multimesh • optimization
 <p align="center">
 discord: <b>pato_lizo</b>
 </p>
-
----
-
-<p align="center">
-  building worlds, one chunk at a time
-</p>
