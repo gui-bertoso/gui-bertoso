@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  i build systems, not just games
+  i build scalable systems, not just games
 </p>
 
 ---
