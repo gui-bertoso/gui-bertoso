@@ -25,6 +25,10 @@
 <b>maya (main)</b><br>
 <sub>a machine learn adaptative virtual assistant</sub><br><br>
 </p>
+<p align="center">
+<b>machine learn experiments</b><br>
+<sub>tests with machine learn</sub><br><br>
+</p>
 
 ---
 
