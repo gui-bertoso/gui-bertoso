@@ -5,7 +5,7 @@
 <h1 align="center">gui.bertoso</h1>
 
 <p align="center">
-  real-time systems & procedural generation
+  real-time systems
 </p>
 
 <p align="center">
