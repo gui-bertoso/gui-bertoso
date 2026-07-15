@@ -22,23 +22,8 @@
 </p>
 
 <p align="center">
-<b>procedural-survival-game (main)</b><br>
-<sub>real-time world systems • procedural generation • performance optimization</sub><br><br>
-</p>
-
-<p align="center">
-<b>project-horizons</b><br>
-<sub>systems-driven experiments and reusable architectures</sub><br><br>
-</p>
-
-<p align="center">
-<b>project-horizons-csharp</b><br>
-<sub>performance-focused systems and code architecture</sub><br><br>
-</p>
-
-<p align="center">
-<b>call-of-mages</b><br>
-<sub>gameplay systems and rapid prototyping</sub>
+<b>maya (main)</b><br>
+<sub>a machine learn adaptative virtual assistant</sub><br><br>
 </p>
 
 ---
