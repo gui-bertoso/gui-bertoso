@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <b>──────── PROJECTS ────────</b>
+  <b>PROJECTS</b>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <b>──────── STACK ────────</b>
+  <b>STACK</b>
 </p>
 
 <p align="center">
@@ -42,10 +42,10 @@ systems • performance • automation • machine learning
 ---
 
 <p align="center">
-  <b>──────── CONTACT ────────</b>
+  <b>CONTACT</b>
 </p>
 
 <p align="center">
-discord: <b>pato_lizo</b>
+discord: <b>pato_lizo</b> • 
 instagram: <b>gui.bertoso</b>
 </p>
