@@ -5,14 +5,6 @@
 <h1 align="center">gui.bertoso</h1>
 
 <p align="center">
-  backend developer
-</p>
-
-<p align="center">
-  systems • performance • scalability
-</p>
-
-<p align="center">
   <a href="https://gui-bertoso.github.io/portfolio/">My portfolio website</a>
 </p>
 
