@@ -46,6 +46,6 @@ systems • performance • automation • machine learning
 </p>
 
 <p align="center">
-discord: <b>pato_lizo</b> • 
+discord: <b>pato_lizo</b>
 instagram: <b>gui.bertoso</b>
 </p>
