@@ -4,8 +4,7 @@
 
 <h1 align="center">gui.bertoso</h1>
 <p align="center">
-<b>maya (main)</b><br>
-<sub>backend developer</sub><br><br>
+<b>backend developer</b>
 </p>
 
 <p align="center">
