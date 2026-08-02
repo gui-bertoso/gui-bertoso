@@ -8,6 +8,13 @@
 </p>
 
 <p align="center">
+godot • c# • python • c++<br>
+systems • performance • automation • machine learning
+</p>
+
+---
+
+<p align="center">
   <b>PROJECTS</b>
 </p>
 
