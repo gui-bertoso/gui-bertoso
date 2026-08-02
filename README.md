@@ -31,19 +31,6 @@ systems • performance • automation • machine learning
 <sub>tests with physics in a simulated ambient</sub><br><br>
 </p>
 
----
-
-<p align="center">
-  <b>STACK</b>
-</p>
-
-<p align="center">
-godot • c# • python • c++<br>
-systems • performance • automation • machine learning
-</p>
-
----
-
 <p align="center">
   <b>CONTACT</b>
 </p>
