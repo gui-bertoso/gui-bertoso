@@ -4,7 +4,6 @@
 
 <h1 align="center">gui.bertoso</h1>
 
----
 <p align="center">
   <b>PROJECTS</b>
 </p>
