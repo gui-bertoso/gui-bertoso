@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-godot • c# • python • c++<br>
+godot • c# • python<br>
 systems • performance • automation • machine learning
 </p>
 
