@@ -4,10 +4,6 @@
 
 <h1 align="center">gui.bertoso</h1>
 
-<p align="center">
-  <a href="https://gui-bertoso.github.io/portfolio/">My portfolio website</a>
-</p>
-
 ---
 <p align="center">
   <b>PROJECTS</b>
