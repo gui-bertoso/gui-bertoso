@@ -1,43 +1,44 @@
 <p align="center">
-  <img src="assets/gifs/waddling-duck.gif" width="160"/>
+  <img src="assets/gifs/waddling-duck.gif" width="150" alt="A waddling duck"/>
 </p>
 
-<h1 align="center">gui.bertoso</h1>
+<h1 align="center">Hey, I'm Gui.</h1>
+
 <p align="center">
-<b>backend developer</b>
+  Backend developer interested in systems, performance and intelligent automation.
 </p>
 
 <p align="center">
-c# • python • rust • c++<br>
-systems • performance • automation • machine learning
+  I enjoy turning curious ideas into reliable software — usually with a duck somewhere nearby.
 </p>
 
 ---
 
-<p align="center">
-  <b>PROJECTS</b>
-</p>
+### What I'm exploring
 
-<p align="center">
-<b>maya (main)</b><br>
-<sub>a machine learn adaptative virtual assistant</sub><br><br>
-</p>
-<p align="center">
-<b>machine learn experiments</b><br>
-<sub>tests with machine learn</sub><br><br>
-</p>
-<p align="center">
-<b>balls physics</b><br>
-<sub>tests with physics in a simulated ambient</sub><br><br>
-</p>
+- Backend architecture and developer tooling
+- High-performance and low-level software
+- Automation, machine learning and virtual assistants
+- Simulations and experimental projects
 
+### Tools I enjoy
+
+`C#` · `Python` · `Rust` · `C++`
+
+### Currently
+
+Building and experimenting with **Maya**, an adaptive virtual assistant that combines automation and machine learning.
+
+You can also take a look at my [portfolio repository](https://github.com/gui-bertoso/portfolio).
 
 ---
+
 <p align="center">
-  <b>CONTACT</b>
+  <a href="https://www.instagram.com/gui.bertoso/">Instagram</a>
+  &nbsp;·&nbsp;
+  Discord: <code>pato_lizo</code>
 </p>
 
 <p align="center">
-discord: <b>pato_lizo</b>
-instagram: <b>gui.bertoso</b>
+  <sub>Thanks for stopping by 🦆</sub>
 </p>
