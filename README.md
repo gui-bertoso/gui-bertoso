@@ -32,8 +32,6 @@
 
 `C#` · `Python` · `Rust` · `C++`
 
-<br clear="right"/>
-
 ### Currently
 
 Building and experimenting with **Maya**, an adaptive virtual assistant that combines automation and machine learning.
