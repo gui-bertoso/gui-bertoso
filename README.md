@@ -16,7 +16,7 @@
 
 <img
   align="right"
-  width="300"
+  width="260"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gui-bertoso&theme=github_dark"
   alt="Gui's GitHub statistics"
 />
@@ -28,11 +28,11 @@
 - Automation, machine learning and virtual assistants
 - Simulations and experimental projects
 
-<br clear="right"/>
-
 ### Tools I enjoy
 
 `C#` · `Python` · `Rust` · `C++`
+
+<br clear="right"/>
 
 ### Currently
 
