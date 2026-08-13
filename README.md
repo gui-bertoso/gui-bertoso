@@ -16,7 +16,7 @@
 
 <img
   align="right"
-  width="390"
+  width="300"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gui-bertoso&theme=github_dark"
   alt="Gui's GitHub statistics"
 />
