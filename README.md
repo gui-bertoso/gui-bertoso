@@ -37,7 +37,7 @@ You can also take a look at my [portfolio repository](https://github.com/gui-ber
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gui-bertoso&show_icons=true&include_all_commits=true&rank_icon=default&custom_title=Gui%27s%20GitHub%20Stats&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&border_color=30363d"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gui-bertoso&theme=github_dark"
     alt="Gui's GitHub statistics"
   />
 </p>
