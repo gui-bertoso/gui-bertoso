@@ -14,12 +14,26 @@
 
 ---
 
-### What I'm exploring
-
-- Backend architecture and developer tooling
-- High-performance and low-level software
-- Automation, machine learning and virtual assistants
-- Simulations and experimental projects
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>What I'm exploring</h3>
+      <ul>
+        <li>Backend architecture and developer tooling</li>
+        <li>High-performance and low-level software</li>
+        <li>Automation, machine learning and virtual assistants</li>
+        <li>Simulations and experimental projects</li>
+      </ul>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gui-bertoso&theme=github_dark"
+        alt="Gui's GitHub statistics"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ### Tools I enjoy
 
@@ -30,17 +44,6 @@
 Building and experimenting with **Maya**, an adaptive virtual assistant that combines automation and machine learning.
 
 You can also take a look at my [portfolio repository](https://github.com/gui-bertoso/portfolio).
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gui-bertoso&theme=github_dark"
-    alt="Gui's GitHub statistics"
-  />
-</p>
 
 ---
 
