@@ -13,7 +13,11 @@
 </p>
 
 ---
-I'm not into AI, but if it's that necessary to break into the market, I'm willing to give it a try on projects where I wouldn't enjoy coding everything by hand.
+
+<p align="center">
+  I'm not into AI, but if it's that necessary to break into the market, I'm willing to give it a try on projects where I wouldn't enjoy coding everything by hand.
+</p>
+
 ---
 
 <img
