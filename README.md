@@ -13,6 +13,8 @@
 </p>
 
 ---
+I'm not into AI, but if it's that necessary to break into the market, I'm willing to give it a try on projects where I wouldn't enjoy coding everything by hand.
+---
 
 <img
   align="right"
@@ -39,8 +41,7 @@ Building and experimenting with **Maya**, an adaptive virtual assistant that com
 You can also take a look at my [portfolio repository](https://github.com/gui-bertoso/portfolio).
 
 ---
-I'm not into AI, but if it's that necessary to break into the market, I'm willing to give it a try on projects where I wouldn't enjoy coding everything by hand.
----
+
 
 <p align="center">
   <a href="https://www.instagram.com/gui.bertoso/">Instagram</a>
