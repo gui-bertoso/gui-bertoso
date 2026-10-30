@@ -56,3 +56,7 @@ You can also take a look at my [portfolio repository](https://github.com/gui-ber
 <p align="center">
   <sub>Thanks for stopping by 🦆</sub>
 </p>
+
+## License
+
+The author's code uses the [MIT License](LICENSE). Third-party materials retain their original licenses.
