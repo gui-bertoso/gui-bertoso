@@ -41,6 +41,8 @@ some are early experiments, some have grown into much bigger projects. that's us
   <a href="https://www.instagram.com/gui.bertoso/">instagram</a>
   &nbsp;·&nbsp;
   discord: <code>pato_lizo</code>
+  &nbsp;·&nbsp;
+  <a href="mailto:gui.bertoso.dev@gmail.com">email</a>
 </p>
 
 <p align="center">
