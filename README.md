@@ -1,62 +1,48 @@
 <p align="center">
-  <img src="assets/gifs/waddling-duck.gif" width="150" alt="A waddling duck"/>
+  <img src="assets/gifs/waddling-duck.gif" width="130" alt="A duck walking with absolutely no deadlines" />
 </p>
 
-<h1 align="center">Hey, I'm Gui.</h1>
+<h1 align="center">hey, i'm gui.</h1>
 
 <p align="center">
-  Backend-focused full-stack developer interested in systems, performance and intelligent automation.
-</p>
-
-<p align="center">
-  I enjoy turning curious ideas into reliable software — usually with a duck somewhere nearby.
+  <strong>C# + Python</strong><br />
+  game engines, machine learning, games, and ducks.
 </p>
 
 ---
 
-<p align="center">
-  I'm not particularly interested in AI-assisted development for my personal projects. I prefer understanding and building things myself. However, I'm open to using AI tools in professional projects when they provide value or are part of the development workflow.
-</p>
+### how i got here
+
+- **2020** — started programming with **Python**.
+- **2022** — found **Godot** and got into making games.
+- **2025** — picked up **C#** and **C++**. C# stayed. C++ got left on read.
+
+these days, **C# and Python** are my main languages. i like building engines, exploring machine learning, and figuring out how things work by making my own versions.
+
+**Rust** has a suspicious amount of my attention. **JavaScript** and i are not friends.
+
+### things i'm building and exploring
+
+| project | what it is |
+| --- | --- |
+| [project horizons](https://github.com/gui-bertoso/project-horizons-csharp) | a game project built with C# and Godot. |
+| [duck engine](https://github.com/gui-bertoso/duck-engine-python) | a Python/Pygame engine prototype with nodes, scenes, and runtime inspection. |
+| [machine learning experiments](https://github.com/gui-bertoso/machine-learning-experiments) | small Python experiments and studies. |
+| [maya](https://github.com/gui-bertoso/maya) | a Python desktop assistant for local workflows and automation. |
+| [ducktimizer](https://github.com/gui-bertoso/ducktimizer) | a standalone Windows optimizer built with C# and Avalonia. |
+
+some are early experiments, some have grown into much bigger projects. that's usually how it starts.
 
 ---
 
-<img
-  align="right"
-  width="260"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gui-bertoso&theme=github_dark"
-  alt="Gui's GitHub statistics"
-/>
-
-### What I'm exploring
-
-- Backend architecture and developer tooling
-- High-performance and low-level software
-- Automation, machine learning and virtual assistants
-- Simulations and experimental projects
-
-### Tools I enjoy
-
-`C#` · `Python` · `Rust` · `C++`
-
-### Currently
-
-Building and experimenting with **Maya**, an adaptive virtual assistant that combines automation and machine learning.
-
-You can also take a look at my [portfolio repository](https://github.com/gui-bertoso/portfolio).
-
----
-
-
 <p align="center">
-  <a href="https://www.instagram.com/gui.bertoso/">Instagram</a>
+  <a href="https://github.com/gui-bertoso/portfolio">portfolio</a>
   &nbsp;·&nbsp;
-  Discord: <code>pato_lizo</code>
+  <a href="https://www.instagram.com/gui.bertoso/">instagram</a>
+  &nbsp;·&nbsp;
+  discord: <code>pato_lizo</code>
 </p>
 
 <p align="center">
-  <sub>Thanks for stopping by 🦆</sub>
+  <sub>there will probably be a duck in the next project too. 🦆</sub>
 </p>
-
-## License
-
-The author's code uses the [MIT License](LICENSE). Third-party materials retain their original licenses.
